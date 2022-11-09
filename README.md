@@ -1,1 +1,1 @@
-Solutions to common data structures and algorith problems.
+Solutions to common data structures and algorithms problems.
