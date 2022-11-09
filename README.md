@@ -1,1 +1,1 @@
-# data-structures-and-algorithms
+Solutions to common data structures and algorith problems.
