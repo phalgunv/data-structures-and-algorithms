@@ -12,5 +12,4 @@ var bubbleSort = function(nums) {
         }
 
     }
-
 };
